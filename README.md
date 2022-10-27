@@ -11,6 +11,7 @@ O esquema do BD Relacional da loja se dá de acordo com a imagem:
 ![esquema](esquema_tabelas.png)
 <!-- colocar screenshoot do seu projeto -->
 
+
 ## Preparação do ambiente
 
 Para realizar as atividades propostas, utilizou-se da seguinte estrutura:
